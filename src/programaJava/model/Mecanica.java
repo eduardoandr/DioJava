@@ -8,17 +8,6 @@ public class Mecanica {
 	private String placa;
 	private Double km;
 	
-	public Mecanica(String email, String nomeCliente, String modelo,
-			String placa, Double km) {
-		this.email = email;
-		this.nomeCliente = nomeCliente;
-		this.modelo = modelo;
-		this.placa = placa;
-		this.km = km;
-		
-		
-		
-	}
 
 	public String getEmail() {
 		return email;
