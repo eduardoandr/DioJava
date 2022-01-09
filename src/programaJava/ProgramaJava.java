@@ -21,7 +21,7 @@ public class ProgramaJava {
 		
 		//Inicio da função dos métodos para cálculos
 		//Soma
-		/*System.out.println("Digite o primeiro valor : ");
+		System.out.println("Digite o primeiro valor : ");
 		a = leia.nextInt();
 		System.out.println("Digite o segundo valor : ");
 		b = leia.nextInt();
@@ -46,7 +46,7 @@ public class ProgramaJava {
 		c = leia.nextInt();
 		System.out.println("Digite o segundo valor : ");
 		d = leia.nextInt();
-		Calculadora.divisao(c, d);*/
+		Calculadora.divisao(c, d);
 		
 		//Fim da Calculadora
 		
